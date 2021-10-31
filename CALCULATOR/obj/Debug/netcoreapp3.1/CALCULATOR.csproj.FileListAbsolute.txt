@@ -1,0 +1,14 @@
+C:\Users\Shivam Shekhar\source\repos\CALCULATOR\bin\Debug\netcoreapp3.1\CALCULATOR.exe
+C:\Users\Shivam Shekhar\source\repos\CALCULATOR\bin\Debug\netcoreapp3.1\CALCULATOR.deps.json
+C:\Users\Shivam Shekhar\source\repos\CALCULATOR\bin\Debug\netcoreapp3.1\CALCULATOR.runtimeconfig.json
+C:\Users\Shivam Shekhar\source\repos\CALCULATOR\bin\Debug\netcoreapp3.1\CALCULATOR.runtimeconfig.dev.json
+C:\Users\Shivam Shekhar\source\repos\CALCULATOR\bin\Debug\netcoreapp3.1\CALCULATOR.dll
+C:\Users\Shivam Shekhar\source\repos\CALCULATOR\bin\Debug\netcoreapp3.1\CALCULATOR.pdb
+C:\Users\Shivam Shekhar\source\repos\CALCULATOR\obj\Debug\netcoreapp3.1\CALCULATOR.csproj.AssemblyReference.cache
+C:\Users\Shivam Shekhar\source\repos\CALCULATOR\obj\Debug\netcoreapp3.1\CALCULATOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam Shekhar\source\repos\CALCULATOR\obj\Debug\netcoreapp3.1\CALCULATOR.AssemblyInfoInputs.cache
+C:\Users\Shivam Shekhar\source\repos\CALCULATOR\obj\Debug\netcoreapp3.1\CALCULATOR.AssemblyInfo.cs
+C:\Users\Shivam Shekhar\source\repos\CALCULATOR\obj\Debug\netcoreapp3.1\CALCULATOR.csproj.CoreCompileInputs.cache
+C:\Users\Shivam Shekhar\source\repos\CALCULATOR\obj\Debug\netcoreapp3.1\CALCULATOR.dll
+C:\Users\Shivam Shekhar\source\repos\CALCULATOR\obj\Debug\netcoreapp3.1\CALCULATOR.pdb
+C:\Users\Shivam Shekhar\source\repos\CALCULATOR\obj\Debug\netcoreapp3.1\CALCULATOR.genruntimeconfig.cache
