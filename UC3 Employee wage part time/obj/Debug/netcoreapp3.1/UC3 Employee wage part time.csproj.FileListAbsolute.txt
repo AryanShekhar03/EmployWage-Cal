@@ -1,0 +1,14 @@
+C:\Users\Shivam Shekhar\source\repos\UC3 Employee wage part time\obj\Debug\netcoreapp3.1\UC3 Employee wage part time.csproj.AssemblyReference.cache
+C:\Users\Shivam Shekhar\source\repos\UC3 Employee wage part time\obj\Debug\netcoreapp3.1\UC3 Employee wage part time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam Shekhar\source\repos\UC3 Employee wage part time\obj\Debug\netcoreapp3.1\UC3 Employee wage part time.AssemblyInfoInputs.cache
+C:\Users\Shivam Shekhar\source\repos\UC3 Employee wage part time\obj\Debug\netcoreapp3.1\UC3 Employee wage part time.AssemblyInfo.cs
+C:\Users\Shivam Shekhar\source\repos\UC3 Employee wage part time\obj\Debug\netcoreapp3.1\UC3 Employee wage part time.csproj.CoreCompileInputs.cache
+C:\Users\Shivam Shekhar\source\repos\UC3 Employee wage part time\bin\Debug\netcoreapp3.1\UC3 Employee wage part time.exe
+C:\Users\Shivam Shekhar\source\repos\UC3 Employee wage part time\bin\Debug\netcoreapp3.1\UC3 Employee wage part time.deps.json
+C:\Users\Shivam Shekhar\source\repos\UC3 Employee wage part time\bin\Debug\netcoreapp3.1\UC3 Employee wage part time.runtimeconfig.json
+C:\Users\Shivam Shekhar\source\repos\UC3 Employee wage part time\bin\Debug\netcoreapp3.1\UC3 Employee wage part time.runtimeconfig.dev.json
+C:\Users\Shivam Shekhar\source\repos\UC3 Employee wage part time\bin\Debug\netcoreapp3.1\UC3 Employee wage part time.dll
+C:\Users\Shivam Shekhar\source\repos\UC3 Employee wage part time\bin\Debug\netcoreapp3.1\UC3 Employee wage part time.pdb
+C:\Users\Shivam Shekhar\source\repos\UC3 Employee wage part time\obj\Debug\netcoreapp3.1\UC3 Employee wage part time.dll
+C:\Users\Shivam Shekhar\source\repos\UC3 Employee wage part time\obj\Debug\netcoreapp3.1\UC3 Employee wage part time.pdb
+C:\Users\Shivam Shekhar\source\repos\UC3 Employee wage part time\obj\Debug\netcoreapp3.1\UC3 Employee wage part time.genruntimeconfig.cache
