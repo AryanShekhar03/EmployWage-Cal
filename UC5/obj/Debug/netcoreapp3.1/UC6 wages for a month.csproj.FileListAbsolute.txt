@@ -1,0 +1,14 @@
+C:\Users\Shivam Shekhar\source\repos\UC6 wages for a month\bin\Debug\netcoreapp3.1\UC6 wages for a month.exe
+C:\Users\Shivam Shekhar\source\repos\UC6 wages for a month\bin\Debug\netcoreapp3.1\UC6 wages for a month.deps.json
+C:\Users\Shivam Shekhar\source\repos\UC6 wages for a month\bin\Debug\netcoreapp3.1\UC6 wages for a month.runtimeconfig.json
+C:\Users\Shivam Shekhar\source\repos\UC6 wages for a month\bin\Debug\netcoreapp3.1\UC6 wages for a month.runtimeconfig.dev.json
+C:\Users\Shivam Shekhar\source\repos\UC6 wages for a month\bin\Debug\netcoreapp3.1\UC6 wages for a month.dll
+C:\Users\Shivam Shekhar\source\repos\UC6 wages for a month\bin\Debug\netcoreapp3.1\UC6 wages for a month.pdb
+C:\Users\Shivam Shekhar\source\repos\UC6 wages for a month\obj\Debug\netcoreapp3.1\UC6 wages for a month.csproj.AssemblyReference.cache
+C:\Users\Shivam Shekhar\source\repos\UC6 wages for a month\obj\Debug\netcoreapp3.1\UC6 wages for a month.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam Shekhar\source\repos\UC6 wages for a month\obj\Debug\netcoreapp3.1\UC6 wages for a month.AssemblyInfoInputs.cache
+C:\Users\Shivam Shekhar\source\repos\UC6 wages for a month\obj\Debug\netcoreapp3.1\UC6 wages for a month.AssemblyInfo.cs
+C:\Users\Shivam Shekhar\source\repos\UC6 wages for a month\obj\Debug\netcoreapp3.1\UC6 wages for a month.csproj.CoreCompileInputs.cache
+C:\Users\Shivam Shekhar\source\repos\UC6 wages for a month\obj\Debug\netcoreapp3.1\UC6 wages for a month.dll
+C:\Users\Shivam Shekhar\source\repos\UC6 wages for a month\obj\Debug\netcoreapp3.1\UC6 wages for a month.pdb
+C:\Users\Shivam Shekhar\source\repos\UC6 wages for a month\obj\Debug\netcoreapp3.1\UC6 wages for a month.genruntimeconfig.cache
