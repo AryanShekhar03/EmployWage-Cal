@@ -1,0 +1,14 @@
+C:\Users\Shivam Shekhar\source\repos\UC6WagestillNoofWorking\bin\Debug\netcoreapp3.1\UC6WagestillNoofWorking.exe
+C:\Users\Shivam Shekhar\source\repos\UC6WagestillNoofWorking\bin\Debug\netcoreapp3.1\UC6WagestillNoofWorking.deps.json
+C:\Users\Shivam Shekhar\source\repos\UC6WagestillNoofWorking\bin\Debug\netcoreapp3.1\UC6WagestillNoofWorking.runtimeconfig.json
+C:\Users\Shivam Shekhar\source\repos\UC6WagestillNoofWorking\bin\Debug\netcoreapp3.1\UC6WagestillNoofWorking.runtimeconfig.dev.json
+C:\Users\Shivam Shekhar\source\repos\UC6WagestillNoofWorking\bin\Debug\netcoreapp3.1\UC6WagestillNoofWorking.dll
+C:\Users\Shivam Shekhar\source\repos\UC6WagestillNoofWorking\bin\Debug\netcoreapp3.1\UC6WagestillNoofWorking.pdb
+C:\Users\Shivam Shekhar\source\repos\UC6WagestillNoofWorking\obj\Debug\netcoreapp3.1\UC6WagestillNoofWorking.csproj.AssemblyReference.cache
+C:\Users\Shivam Shekhar\source\repos\UC6WagestillNoofWorking\obj\Debug\netcoreapp3.1\UC6WagestillNoofWorking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam Shekhar\source\repos\UC6WagestillNoofWorking\obj\Debug\netcoreapp3.1\UC6WagestillNoofWorking.AssemblyInfoInputs.cache
+C:\Users\Shivam Shekhar\source\repos\UC6WagestillNoofWorking\obj\Debug\netcoreapp3.1\UC6WagestillNoofWorking.AssemblyInfo.cs
+C:\Users\Shivam Shekhar\source\repos\UC6WagestillNoofWorking\obj\Debug\netcoreapp3.1\UC6WagestillNoofWorking.csproj.CoreCompileInputs.cache
+C:\Users\Shivam Shekhar\source\repos\UC6WagestillNoofWorking\obj\Debug\netcoreapp3.1\UC6WagestillNoofWorking.dll
+C:\Users\Shivam Shekhar\source\repos\UC6WagestillNoofWorking\obj\Debug\netcoreapp3.1\UC6WagestillNoofWorking.pdb
+C:\Users\Shivam Shekhar\source\repos\UC6WagestillNoofWorking\obj\Debug\netcoreapp3.1\UC6WagestillNoofWorking.genruntimeconfig.cache
