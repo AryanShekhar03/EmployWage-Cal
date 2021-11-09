@@ -1,0 +1,13 @@
+C:\Users\Shivam Shekhar\source\repos\UC9\bin\Debug\netcoreapp3.1\Alphabet.exe
+C:\Users\Shivam Shekhar\source\repos\UC9\bin\Debug\netcoreapp3.1\Alphabet.deps.json
+C:\Users\Shivam Shekhar\source\repos\UC9\bin\Debug\netcoreapp3.1\Alphabet.runtimeconfig.json
+C:\Users\Shivam Shekhar\source\repos\UC9\bin\Debug\netcoreapp3.1\Alphabet.runtimeconfig.dev.json
+C:\Users\Shivam Shekhar\source\repos\UC9\bin\Debug\netcoreapp3.1\Alphabet.dll
+C:\Users\Shivam Shekhar\source\repos\UC9\bin\Debug\netcoreapp3.1\Alphabet.pdb
+C:\Users\Shivam Shekhar\source\repos\UC9\obj\Debug\netcoreapp3.1\Alphabet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam Shekhar\source\repos\UC9\obj\Debug\netcoreapp3.1\Alphabet.AssemblyInfoInputs.cache
+C:\Users\Shivam Shekhar\source\repos\UC9\obj\Debug\netcoreapp3.1\Alphabet.AssemblyInfo.cs
+C:\Users\Shivam Shekhar\source\repos\UC9\obj\Debug\netcoreapp3.1\Alphabet.csproj.CoreCompileInputs.cache
+C:\Users\Shivam Shekhar\source\repos\UC9\obj\Debug\netcoreapp3.1\Alphabet.dll
+C:\Users\Shivam Shekhar\source\repos\UC9\obj\Debug\netcoreapp3.1\Alphabet.pdb
+C:\Users\Shivam Shekhar\source\repos\UC9\obj\Debug\netcoreapp3.1\Alphabet.genruntimeconfig.cache

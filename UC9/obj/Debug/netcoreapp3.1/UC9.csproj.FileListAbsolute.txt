@@ -1,0 +1,14 @@
+C:\Users\Shivam Shekhar\source\repos\UC9\bin\Debug\netcoreapp3.1\UC9.exe
+C:\Users\Shivam Shekhar\source\repos\UC9\bin\Debug\netcoreapp3.1\UC9.deps.json
+C:\Users\Shivam Shekhar\source\repos\UC9\bin\Debug\netcoreapp3.1\UC9.runtimeconfig.json
+C:\Users\Shivam Shekhar\source\repos\UC9\bin\Debug\netcoreapp3.1\UC9.runtimeconfig.dev.json
+C:\Users\Shivam Shekhar\source\repos\UC9\bin\Debug\netcoreapp3.1\UC9.dll
+C:\Users\Shivam Shekhar\source\repos\UC9\bin\Debug\netcoreapp3.1\UC9.pdb
+C:\Users\Shivam Shekhar\source\repos\UC9\obj\Debug\netcoreapp3.1\UC9.csproj.AssemblyReference.cache
+C:\Users\Shivam Shekhar\source\repos\UC9\obj\Debug\netcoreapp3.1\UC9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam Shekhar\source\repos\UC9\obj\Debug\netcoreapp3.1\UC9.AssemblyInfoInputs.cache
+C:\Users\Shivam Shekhar\source\repos\UC9\obj\Debug\netcoreapp3.1\UC9.AssemblyInfo.cs
+C:\Users\Shivam Shekhar\source\repos\UC9\obj\Debug\netcoreapp3.1\UC9.csproj.CoreCompileInputs.cache
+C:\Users\Shivam Shekhar\source\repos\UC9\obj\Debug\netcoreapp3.1\UC9.dll
+C:\Users\Shivam Shekhar\source\repos\UC9\obj\Debug\netcoreapp3.1\UC9.pdb
+C:\Users\Shivam Shekhar\source\repos\UC9\obj\Debug\netcoreapp3.1\UC9.genruntimeconfig.cache
