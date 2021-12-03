@@ -1,0 +1,5 @@
+C:\Users\Shivam Shekhar\source\repos\EmpWageUsingArray\obj\Debug\netcoreapp3.1\EmpWageUsingArray.csproj.AssemblyReference.cache
+C:\Users\Shivam Shekhar\source\repos\EmpWageUsingArray\obj\Debug\netcoreapp3.1\EmpWageUsingArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam Shekhar\source\repos\EmpWageUsingArray\obj\Debug\netcoreapp3.1\EmpWageUsingArray.AssemblyInfoInputs.cache
+C:\Users\Shivam Shekhar\source\repos\EmpWageUsingArray\obj\Debug\netcoreapp3.1\EmpWageUsingArray.AssemblyInfo.cs
+C:\Users\Shivam Shekhar\source\repos\EmpWageUsingArray\obj\Debug\netcoreapp3.1\EmpWageUsingArray.csproj.CoreCompileInputs.cache
