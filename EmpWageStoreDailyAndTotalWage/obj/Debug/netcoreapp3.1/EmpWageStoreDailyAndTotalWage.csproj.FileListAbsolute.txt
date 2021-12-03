@@ -1,0 +1,14 @@
+C:\Users\Shivam Shekhar\source\repos\EmpWageStoreDailyAndTotalWage\bin\Debug\netcoreapp3.1\EmpWageStoreDailyAndTotalWage.exe
+C:\Users\Shivam Shekhar\source\repos\EmpWageStoreDailyAndTotalWage\bin\Debug\netcoreapp3.1\EmpWageStoreDailyAndTotalWage.deps.json
+C:\Users\Shivam Shekhar\source\repos\EmpWageStoreDailyAndTotalWage\bin\Debug\netcoreapp3.1\EmpWageStoreDailyAndTotalWage.runtimeconfig.json
+C:\Users\Shivam Shekhar\source\repos\EmpWageStoreDailyAndTotalWage\bin\Debug\netcoreapp3.1\EmpWageStoreDailyAndTotalWage.runtimeconfig.dev.json
+C:\Users\Shivam Shekhar\source\repos\EmpWageStoreDailyAndTotalWage\bin\Debug\netcoreapp3.1\EmpWageStoreDailyAndTotalWage.dll
+C:\Users\Shivam Shekhar\source\repos\EmpWageStoreDailyAndTotalWage\bin\Debug\netcoreapp3.1\EmpWageStoreDailyAndTotalWage.pdb
+C:\Users\Shivam Shekhar\source\repos\EmpWageStoreDailyAndTotalWage\obj\Debug\netcoreapp3.1\EmpWageStoreDailyAndTotalWage.csproj.AssemblyReference.cache
+C:\Users\Shivam Shekhar\source\repos\EmpWageStoreDailyAndTotalWage\obj\Debug\netcoreapp3.1\EmpWageStoreDailyAndTotalWage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam Shekhar\source\repos\EmpWageStoreDailyAndTotalWage\obj\Debug\netcoreapp3.1\EmpWageStoreDailyAndTotalWage.AssemblyInfoInputs.cache
+C:\Users\Shivam Shekhar\source\repos\EmpWageStoreDailyAndTotalWage\obj\Debug\netcoreapp3.1\EmpWageStoreDailyAndTotalWage.AssemblyInfo.cs
+C:\Users\Shivam Shekhar\source\repos\EmpWageStoreDailyAndTotalWage\obj\Debug\netcoreapp3.1\EmpWageStoreDailyAndTotalWage.csproj.CoreCompileInputs.cache
+C:\Users\Shivam Shekhar\source\repos\EmpWageStoreDailyAndTotalWage\obj\Debug\netcoreapp3.1\EmpWageStoreDailyAndTotalWage.dll
+C:\Users\Shivam Shekhar\source\repos\EmpWageStoreDailyAndTotalWage\obj\Debug\netcoreapp3.1\EmpWageStoreDailyAndTotalWage.pdb
+C:\Users\Shivam Shekhar\source\repos\EmpWageStoreDailyAndTotalWage\obj\Debug\netcoreapp3.1\EmpWageStoreDailyAndTotalWage.genruntimeconfig.cache
