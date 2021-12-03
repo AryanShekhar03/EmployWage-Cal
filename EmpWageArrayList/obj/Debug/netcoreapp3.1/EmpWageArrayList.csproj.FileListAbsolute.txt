@@ -1,0 +1,14 @@
+C:\Users\Shivam Shekhar\source\repos\EmpWageArrayList\bin\Debug\netcoreapp3.1\EmpWageArrayList.exe
+C:\Users\Shivam Shekhar\source\repos\EmpWageArrayList\bin\Debug\netcoreapp3.1\EmpWageArrayList.deps.json
+C:\Users\Shivam Shekhar\source\repos\EmpWageArrayList\bin\Debug\netcoreapp3.1\EmpWageArrayList.runtimeconfig.json
+C:\Users\Shivam Shekhar\source\repos\EmpWageArrayList\bin\Debug\netcoreapp3.1\EmpWageArrayList.runtimeconfig.dev.json
+C:\Users\Shivam Shekhar\source\repos\EmpWageArrayList\bin\Debug\netcoreapp3.1\EmpWageArrayList.dll
+C:\Users\Shivam Shekhar\source\repos\EmpWageArrayList\bin\Debug\netcoreapp3.1\EmpWageArrayList.pdb
+C:\Users\Shivam Shekhar\source\repos\EmpWageArrayList\obj\Debug\netcoreapp3.1\EmpWageArrayList.csproj.AssemblyReference.cache
+C:\Users\Shivam Shekhar\source\repos\EmpWageArrayList\obj\Debug\netcoreapp3.1\EmpWageArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam Shekhar\source\repos\EmpWageArrayList\obj\Debug\netcoreapp3.1\EmpWageArrayList.AssemblyInfoInputs.cache
+C:\Users\Shivam Shekhar\source\repos\EmpWageArrayList\obj\Debug\netcoreapp3.1\EmpWageArrayList.AssemblyInfo.cs
+C:\Users\Shivam Shekhar\source\repos\EmpWageArrayList\obj\Debug\netcoreapp3.1\EmpWageArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Shivam Shekhar\source\repos\EmpWageArrayList\obj\Debug\netcoreapp3.1\EmpWageArrayList.dll
+C:\Users\Shivam Shekhar\source\repos\EmpWageArrayList\obj\Debug\netcoreapp3.1\EmpWageArrayList.pdb
+C:\Users\Shivam Shekhar\source\repos\EmpWageArrayList\obj\Debug\netcoreapp3.1\EmpWageArrayList.genruntimeconfig.cache
